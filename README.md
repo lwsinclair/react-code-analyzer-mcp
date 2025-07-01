@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/samumirandam-react-code-analyzer-mcp-badge.png)](https://mseep.ai/app/samumirandam-react-code-analyzer-mcp)
+
 # React Code Analyzer MCP
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
